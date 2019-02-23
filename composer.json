@@ -30,6 +30,6 @@
     }
   ],
   "require": {
-    "moskalenkoBV/styleguidekit-assets-default": "3.5.2"
+    "pattern-lab/styleguidekit-assets-default": "dev-master-352"
   }
 }
