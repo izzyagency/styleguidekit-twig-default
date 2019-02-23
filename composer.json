@@ -1,5 +1,5 @@
 {
-  "name":             "pattern-lab/styleguidekit-twig-default",
+  "name":             "moskalenkoBV/styleguidekit-twig-default",
   "description":      "Fork from pattern-lab/styleguidekit-twig-default. The default Twig-based StyleguideKit for Pattern Lab. Contains styles and mark-up for Pattern Lab's front-end.",
   "keywords":         ["twig", "pattern lab", "styleguide"],
   "homepage":         "http://patternlab.io",
@@ -30,6 +30,6 @@
     }
   ],
   "require": {
-    "pattern-lab/styleguidekit-assets-default": "dev-master-352"
+    "moskalenkoBV/styleguidekit-assets-default": "dev-master-352"
   }
 }
