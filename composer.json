@@ -22,14 +22,5 @@
     "issues":         "https://github.com/pattern-lab/styleguidekit-twig-default/issues",
     "wiki":           "http://patternlab.io/docs/",
     "source":         "https://github.com/pattern-lab/styleguidekit-twig-default/releases"
-  },
-  "repositories": [
-    {
-      "type": "vcs",
-      "url": "https://github.com/moskalenkoBV/styleguidekit-assets-default"
-    }
-  ],
-  "require": {
-    "pattern-lab/styleguidekit-assets-default": "dev-release/3.x"
   }
 }
