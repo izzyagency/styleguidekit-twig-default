@@ -30,6 +30,6 @@
     }
   ],
   "require": {
-    "moskalenkoBV/styleguidekit-assets-default": "master-352"
+    "moskalenkoBV/styleguidekit-assets-default": "dev-release/3.x"
   }
 }
